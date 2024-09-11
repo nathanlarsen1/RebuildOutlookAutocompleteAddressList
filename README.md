@@ -13,7 +13,7 @@ The project consists of an AutoIt script that rebuilds the autocomplete cache ba
 
 - <b>Outlook 2019 and older</b>
 
-<h2>Program walk-through:</h2>
+<h2>Program notifications:</h2>
 
 <p align="center">
 Completed Rebuild: <br/>
