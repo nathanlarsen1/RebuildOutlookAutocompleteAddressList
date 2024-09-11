@@ -2,7 +2,7 @@
 
 
 <h2>Description</h2>
-The project consists of an AutoIt script that rebuilds the autocomplete cache based on unique addresses in the Sent Items folder in Outlook. The rebuild process can be time consuming based on how many emails are in the Sent Items folder.<br/>
+The project consists of an AutoIt script that rebuilds the autocomplete cache based on unique addresses in the Sent Items folder in Outlook. The rebuild process can be time-consuming, depending on how many emails are in the Sent Items folder. The script compiles a list of unique email addresses from the Sent Items folder and creates an email message with those addresses as recipients. It then delays the sending of the email and subsequently deletes it. This process adds the email addresses to Outlook's autocomplete cache. The script notifies the user by displaying a 'Completed Rebuild' message.<br/>
 
 <h2>Languages and Protocols</h2>
 
