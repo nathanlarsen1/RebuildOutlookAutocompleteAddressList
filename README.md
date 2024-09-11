@@ -16,8 +16,8 @@ The project consists of an AutoIt script that rebuilds the autocomplete cache ba
 <h2>Program walk-through:</h2>
 
 <p align="center">
-Connection Attempt: <br/>
-<img src="https://imgur.com/2LRDdWw" height="80%" width="80%" alt="Connection Attempt"/>
+Completed Rebuild: <br/>
+<img src="https://imgur.com/2LRDdWw" height="80%" width="80%" alt="Completed Rebuild"/>
 <br />
 <br />
 </p>
