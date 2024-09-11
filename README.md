@@ -17,15 +17,9 @@ The project consists of an AutoIt script that rebuilds the autocomplete cache ba
 
 <p align="center">
 Connection Attempt: <br/>
-<img src="https://i.imgur.com/1uxF1V9.png" height="80%" width="80%" alt="Connection Attempt"/>
+<img src="https://imgur.com/2LRDdWw" height="80%" width="80%" alt="Connection Attempt"/>
 <br />
 <br />
-RDP Login Prompt:  <br/>
-<img src="https://i.imgur.com/dP79sB2.png" height="80%" width="80%" alt="RDP Login Prompt"/>
-<br />
-<br />
-Unable to Connect Error: <br/>
-<img src="https://i.imgur.com/gPbNMbw.png" height="80%" width="80%" alt="Unable to Connect"/>
 </p>
 
 <!--
