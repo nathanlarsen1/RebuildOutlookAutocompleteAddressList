@@ -11,7 +11,7 @@ The project consists of an AutoIt script that rebuilds the autocomplete cache ba
 
 <h2>Environments Used </h2>
 
-- <b>Outlook 2019</b>
+- <b>Outlook 2019 and older</b>
 
 <h2>Program walk-through:</h2>
 
